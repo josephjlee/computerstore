@@ -1,0 +1,1 @@
+<h2>Welcome <?php echo $full_name;?></h2>
